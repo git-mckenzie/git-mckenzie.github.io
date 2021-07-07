@@ -58,6 +58,11 @@ body {
 mark {
 	background-color: transparent;
 	color: inherit;
+	border-radius: 5px;
+  background: #231a1fd4;
+  padding: 3px;
+  width: 200px;
+  height: 150px;
 }
 
 input::-moz-focus-inner {
