@@ -245,7 +245,7 @@ h2 {
 }
 
 h2.alt {
-  color: rgb(196, 101, 0);
+  color: rgb(252 244 240);
 }
 
 h2.alt strong {
@@ -2330,8 +2330,7 @@ button:active,
 }
 
 #main > section.dark {
-  color: rgb(196, 101, 0);
-  color: rgb(186, 102, 0);
+  color: rgb(254 238 231);
 }
 
 #main > section.dark h2,
@@ -2369,11 +2368,11 @@ button:active,
 
 #main > section.two {
   /* background-color: #f5fafa; */
-  background-color: #ebdfdc;
+  background-color: #f5d3de;
 }
 
 #main > section.three {
-  background-color: #d8d2d8;
+  background-color: #ebb9eb;
 }
 
 #main > section.four {
